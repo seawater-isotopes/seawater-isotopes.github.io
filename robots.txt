@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seawater-isotopes/sitemap.xml
+Sitemap: https://www.seawater-isotopes/sitemap.xml
